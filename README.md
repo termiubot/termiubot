@@ -7,20 +7,23 @@
 ## 技能和技术
 
 💻 **编程语言**：
-- Python
-- JavaScript
 - Java
+- TypeScript
+- JavaScript
 
 ⚙️ **技术栈**：
-- React
-- Node.js
+- Spring
+- MySQL
+- Redis
+- Vue.js
+- Electron
 - Docker
 
 ## 项目和作品
 
 📂 **项目**：
-- [flipclock](https://github.com/termiubot/flip-clock) - 
-- [camera](https://github.com/termiubot/electron-camera) - 项目描述
+- [flipclock](https://github.com/termiubot/flip-clock) 
+- [camera](https://github.com/termiubot/electron-camera) 
 
 ## 兴趣爱好
 
@@ -32,6 +35,6 @@
 
 📧 **邮箱**：termiubot@gmail.com 
 🌐 **网站**：[termiubot.com](https://termiubot.com)  
-🐦 **Twitter**
-👔 **LinkedIn**
+🐦 **Twitter**：
+👔 **LinkedIn**：
 
