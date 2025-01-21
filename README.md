@@ -3,7 +3,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=termiubot&label=访问量&color=0e75b6&style=flat" alt="访问量" />
-  <img src="https://img.shields.io/github/followers/termiubot?label=关注&style=social" alt="followers" />
   <img src="https://img.shields.io/github/stars/termiubot?label=Stars&style=social" alt="stars" />
 </p>
 
