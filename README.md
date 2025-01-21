@@ -78,9 +78,9 @@ Kubernetes    ████████████░░░░░░░░   60%
   <img src="https://github-readme-stats.vercel.app/api?username=termiubot&show_icons=true&theme=radical&locale=cn" alt="termiubot" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=termiubot&theme=radical" alt="termiubot" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=termiubot&layout=compact&theme=radical&locale=cn" alt="常用语言" />
