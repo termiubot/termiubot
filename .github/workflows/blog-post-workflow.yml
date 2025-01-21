@@ -1,0 +1,24 @@
+name: 更新博客文章
+
+on:
+  schedule:
+    - cron: "0 */24 * * *" # 每24小时运行一次
+  workflow_dispatch: # 允许手动触发
+
+jobs:
+  update-readme:
+    name: 更新 README 中的博客文章
+    runs-on: ubuntu-latest
+    steps:
+      - name: 检出代码
+        uses: actions/checkout@v3
+
+      - name: 更新博客文章列表
+        uses: gautamkrishnar/blog-post-workflow@master
+        with:
+          feed_list: "https://termiubot.com/feed.xml" # 替换为你的博客 RSS 地址
+          max_post_count: 5
+          template: "- $icon [$title]($url)"
+          date_format: "yyyy-mm-dd"
+          locale: "zh-CN"
+          comment_tag_name: "BLOG-POST-LIST"
